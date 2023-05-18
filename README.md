@@ -1,6 +1,6 @@
 # The-area-of-the-object-through-the-photo
 Determining the area of a physical object from a photo
-
+![Screenshot](Screenshot.png)
 This algorithm determines the area of the green object based on the photo (optional).
 The principle is based on machine vision and the binding of an object to a pre-known coordinate system. 
 Description of the experiment: A frame with previously known sides is drawn on a paper sheet. There is a green object inside the frame. Proportionally from the coordinate system of the camera, go to the coordinate system of the sheet and determine the area of the object.
