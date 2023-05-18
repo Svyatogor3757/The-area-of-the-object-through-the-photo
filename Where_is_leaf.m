@@ -54,7 +54,7 @@ PPM = diagonal_px / diagonal_mm;
 
 sumpx = sum(sum(imageleaf == 0));
 disp(['Коэффициент PPM равен ' num2str(PPM) '.']);
-disp(['Площадь листа равна ' num2str(sumpx/PPM) ' мм.']);
+disp(['Площадь листа равна ' num2str(sumpx/PPM) ' мм2.']);
 
 
 
